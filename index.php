@@ -63,7 +63,7 @@
 		</div>
 		<footer>
 
-		<p>© 2020.</p>
+		<p>© 2020</p>
 			
 		</footer>
 	</div>
