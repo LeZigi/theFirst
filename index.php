@@ -63,7 +63,7 @@
 		</div>
 		<footer>
 
-		<p>© 2020</p>
+		<p>© Le COVID 2020 </p>
 			
 		</footer>
 	</div>
